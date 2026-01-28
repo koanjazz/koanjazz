@@ -2,7 +2,7 @@
 
 ### Hi there I am Ricardo koan kohatsu 
 
-- 🔭 I’m currently working on Personal Projects with Python and Shell Script 
+- 🔭 I’m currently working on Personal Projects with Python and Shell Script and the search for my first job 
 - 🌱 I’m currently learning Python, Shell Script and Security information 
 <!-- Dropdown -->
 <details>

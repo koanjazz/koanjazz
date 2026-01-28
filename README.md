@@ -11,7 +11,7 @@
   - 💬 I am 37 years old, currently living in Brazil. I have Intermediate in English and have experience with, Python, Shell Script, Linux,  
 
   - ⚡ I'am a frequent user on hacking platforms, such as, hackthebox, Tryhackme, hackerone, and I've been trying my first bugbounty, and I love challenges and think ou of the box
-  - ⚡ In My first project Shellscript, is one analyser of doors the connections, 
+  - ⚡ In My first project Shellscript, this code is an automation script for system recongnition(recon). It serves to list all the services that are "Listening" to connection of the machine where the script runs.
   - 
 </details>
 

@@ -3,7 +3,7 @@
 ### Hi there I am Ricardo koan kohatsu 
 
 - 🔭 I’m currently working on Personal Projects with Python and Shell Script and the search for my first job 
-- 🌱 I’m currently learning Python, Shell Script and Security information 
+- 🌱 I’m studying for a bachelor`s degree in Information System 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
@@ -16,6 +16,11 @@
 </details>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jazzkoa/)
+  [![Beecrowd](https://img.shields.io/badge/Beecrowd-FFD700?style=for-the-badge&logo=codeforces&logoColor=black)](https://judge.beecrowd.com/pt/profile/447694)
+  
+
+
+  
 
 
 

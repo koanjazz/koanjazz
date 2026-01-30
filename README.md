@@ -17,7 +17,14 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jazzkoa/)
   [![Beecrowd](https://img.shields.io/badge/Beecrowd-FFD700?style=for-the-badge&logo=codeforces&logoColor=black)](https://judge.beecrowd.com/pt/profile/447694)
-  
+
+
+  <!-- Portfolio -->
+  ## Portfolio:
+- [Door Checker](https://github.com/koanjazz/Verificando-Portas-em-Shell)
+- [Broken password with Medusa](https://github.com/koanjazz/Dio_medusa_kali)
+- [Jankenpon Game](https://github.com/koanjazz/rockx)
+- [Arcade Game](https://github.com/koanjazz/game)
 
 
   

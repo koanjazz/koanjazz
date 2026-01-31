@@ -41,6 +41,11 @@
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+    
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/3c7ff363-2808-4169-b20c-5920cbb29af9" alt="aiuhgg" width="300">
+</p>
    
 
    ## Code editors and tools
@@ -49,6 +54,7 @@
    <img align="center" alt="Shell" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
    <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
    <img align="center" alt="Sherlock" height="30" width="40" src="https://raw.githubusercontent.com/sherlock-project/sherlock/master/docs/images/sherlock-logo.png">
+     
    
   
 

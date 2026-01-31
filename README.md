@@ -29,6 +29,11 @@
 - [Jankenpon Game](https://github.com/koanjazz/rockx)
 - [Arcade Game](https://github.com/koanjazz/game)
 
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/3c7ff363-2808-4169-b20c-5920cbb29af9" alt="aiuhgg" width="300">
+</p>
+
   
 
 ## 🔥 Skills
@@ -43,9 +48,7 @@
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
     
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/3c7ff363-2808-4169-b20c-5920cbb29af9" alt="aiuhgg" width="300">
-</p>
+
    
 
    ## Code editors and tools
